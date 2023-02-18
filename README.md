@@ -1,16 +1,20 @@
 # counter_app
 
-A new Flutter project.
+Esta es mi primera aplicación movil generada con Flutter. Consiste en una única pantalla
+con un contador el cual se puede incrementar, decrecer y restaurar el valor.
 
-## Getting Started
+## Aplicación de Conceptos:
 
-This project is a starting point for a Flutter application.
+- Widgets de tipo Stateless.
 
-A few resources to get you started if this is your first Flutter project:
+- Widgets de tipo Stateful.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Manejo de Scaffolds.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Implementación de estilos básicos.
+
+- Implementación de botones y sus acciones (métodos).
+
+- Manejo de estado básico.
+
+![screen 1](https://i.imgur.com/C6vf7O7.png)
